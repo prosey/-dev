@@ -1,0 +1,3 @@
+[submodule "app/.github"]
+	path = app/.github
+	url = git@github.com:prosey/.github.git
