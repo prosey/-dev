@@ -1,3 +1,12 @@
 [submodule "app/.github"]
 	path = app/.github
 	url = git@github.com:prosey/.github.git
+[submodule "app/prosey.net"]
+	path = app/prosey.net
+	url = git@github.com:prosey/prosey.net.git
+[submodule "lib/domain--browser"]
+	path = lib/domain--browser
+	url = git@github.com:prosey/domain--browser.git
+[submodule "lib/ui--browser"]
+	path = lib/ui--browser
+	url = git@github.com:prosey/ui--browser.git
